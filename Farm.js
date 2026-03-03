@@ -1,4 +1,5 @@
 class Animal {
+    //ghjdthrf
     //Приватное поле
     #name;
     #age;
